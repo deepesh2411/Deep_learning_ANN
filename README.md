@@ -23,9 +23,11 @@
 #part 4: Save the model for future prediction
   used the json file to save the model and its weights
   
-#part 5: Load the model to predict
+#part 5: Loading the model to predict
   
   
 # code_file 
     part 1 to part 4 :  My_ann.py 
     part 5           :  loading_model.py
+
+#dataset : Churn_Modelling.csv
