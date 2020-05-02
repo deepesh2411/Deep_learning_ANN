@@ -1,4 +1,4 @@
-# Deep_learning_ANN
+# Deep_learning_ANN Artificial Neural Network
 I have created an Artificial Neural Network model on the random bank dataset to find that which employee is going to left the bank and vice-versa.
 
 #part 1: Data Preprocessing
